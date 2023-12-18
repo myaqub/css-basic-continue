@@ -1,0 +1,19 @@
+html {
+
+    --main-color:  #33302e;
+    --background-color: rgb(203, 203, 253);
+    --border-stlying:  2px dotted rgb(7, 113, 250) ;
+
+}
+
+body {
+
+    background-color: var(--background-color);
+}
+
+p {
+
+    color: var(--main-color);
+    border-bottom: var(--border-stlying);
+}
+
